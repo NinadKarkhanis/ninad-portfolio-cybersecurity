@@ -18,6 +18,7 @@ const Navbar = () => {
   }, []);
 
   const navLinks = [
+    { to: "about", label: "About Me" },
     { to: "edu", label: "Education" },
     { to: "exp", label: "Work Experience" },
     { to: "tech", label: "Tools" },

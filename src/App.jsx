@@ -24,7 +24,7 @@ const App = () => {
           
           <div className="container mx-auto px-8">
           <Navbar/>
-          <Hero/>
+          <section id ="about"><Hero/></section>
           
           <section id="edu"><Education/></section>
           <section id="exp"><Exp/></section>
