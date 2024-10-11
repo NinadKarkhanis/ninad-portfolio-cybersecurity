@@ -18,13 +18,14 @@ const Navbar = () => {
   }, []);
 
   const navLinks = [
+    { to: "edu", label: "Education" },
+    { to: "exp", label: "Work Experience" },
     { to: "tech", label: "Tools" },
     { to: "proj", label: "Projects" },
-    { to: "exp", label: "Work Experience" },
-    { to: "edu", label: "Education" },
-    { to: "con", label: "Contact Me" },
-    { to: "rev", label: "Reviews" }
+    { to: "con", label: "Contact Me" }
   ];
+
+  
 
   return (
     <nav className={`fixed top-0 left-0 w-full z-50 transition-all duration-300 ${isScrolled ? 'bg-neutral-900 shadow-lg' : 'bg-transparent'}`}>
