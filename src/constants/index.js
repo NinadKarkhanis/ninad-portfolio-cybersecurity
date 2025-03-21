@@ -12,6 +12,13 @@ I have also completed several virtual labs throughout the course, which have sig
 
 export const EXPERIENCES = [
   {
+    year: "2024 - 2025",
+    role: "Cyber Security Analyst",
+    company: "Kirtane & Pandit",
+    description: `Currently working as a Cyber Security Analyst at Kirtane & Pandit.`,
+    technologies: ["GRC","V-CISO Services"],
+  },
+  {
     year: "2022 - 2024",
     role: "Graphic Designer Internship",
     company: "Chartered Studies",
@@ -83,14 +90,14 @@ export const PROJECTS = [
     description:
       "In this virtual lab, I have configured policies on a Checkpoint Firewall to ensure that only the required traffic is allowed to flow in and out. Routing protocols such as OSPF, EIGRP, and RIP are used to establish and maintain network connectivity. Additionally, we have implemented various types of NAT. For example, internal machines can access external networks using a public IP address. Furthermore, we set up policies to allow external access to services in the DMZ",
     technologies: ["Checkpoint Firewall","Cisco Switch","Cisco Router"],
-  },
-  {
-    title: "Treasure Quest",
-    image: project5,
-    description:
-      "A cross-platform 2D platformer game designed for competitive play, where players compete for the highest score or the fastest completion time. This project was developed as part of my final year project.",
-    technologies: ["C#", "Unity"],
   }
+  // {
+  //   title: "Treasure Quest",
+  //   image: project5,
+  //   description:
+  //     "A cross-platform 2D platformer game designed for competitive play, where players compete for the highest score or the fastest completion time. This project was developed as part of my final year project.",
+  //   technologies: ["C#", "Unity"],
+  // }
 ];
 
 export const CONTACT = {
