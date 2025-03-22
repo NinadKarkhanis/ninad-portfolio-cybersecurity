@@ -48,14 +48,14 @@ const Hero = () => {
         
         
         </div>
-        <div>
+        {/* <div>
         <motion.img 
         initial={{x:100,opacity:0}}
         animate={{x:0,opacity:1}}
         transition={{duration:1,delay:1.2}}
         src="https://tryhackme-badges.s3.amazonaws.com/NinadK.png" alt="Your Image Badge" />
 
-        </div>
+        </div> */}
     </div>
 
     <div>
