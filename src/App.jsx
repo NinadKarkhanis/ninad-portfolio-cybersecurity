@@ -7,6 +7,7 @@ import Exp from './components/Exp'
 import Projects from './components/Projects'
 import Education from './components/Education'
 import Contact from './components/Contact'
+import Article from './components/Articles'
 
 const App = () => {
   
@@ -30,6 +31,7 @@ const App = () => {
           <section id="exp"><Exp/></section>
           <section id="tech"><Technologies/></section>
           <section id="proj"><Projects/></section>
+          <section id="art"><Articles/></section>
           <section id="con"><Contact/></section>
          
           </div>
