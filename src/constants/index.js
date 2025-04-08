@@ -100,6 +100,16 @@ export const PROJECTS = [
   // }
 ];
 
+export const ARTICLES = [
+  {
+    title:"An Awarness Guide To Identify",
+    image: article1,
+    description:
+  }
+]
+
+
+
 export const CONTACT = {
   phoneNo: "+91 9823377138 ",
   email: "ninadkarkhanis2003@gmail.com",
