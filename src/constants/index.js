@@ -3,6 +3,7 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 import project5 from "../assets/projects/project-5.jpg";
+import article1 from "../assets/projects/ScamAwarness.png";
 
 export const HERO_CONTENT = `As a cybersecurity enthusiast, I am deeply passionate about the field and have extensive hands-on experience with a variety of network security devices. My expertise includes working with Cisco routers and switches, which has given me a solid foundation in networking fundamentals and advanced configurations. Additionally, I have practical experience with Palo Alto firewalls, Checkpoint firewalls, and ASA (Adaptive Security Appliance), allowing me to effectively manage and secure network environments. I am also familar with Kali Linux and Wireshark, enhancing my ability to conduct security assessments and analyze network traffic. `;
 
