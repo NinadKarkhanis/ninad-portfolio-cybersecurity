@@ -1,4 +1,4 @@
-import { PROJECTS } from "../constants"
+import { ARTICLES } from "../constants"
 import { motion } from "framer-motion";
 
 const Projects = () => {
